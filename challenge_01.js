@@ -48,12 +48,12 @@ let c = a + b;
 console.log(" die summer der zahlen ist : " + c);
 */
 
-
-// lösung dozent 1
 /*
+// lösung dozent 1
+
 // deklaration
-let ziffer1;
-let ziffer1, ziffer2, summe;
+let zahl1, zahl2 
+let zahl1, zahl2, summe;
 
 
 //eingabe :: ziffern
